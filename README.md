@@ -38,12 +38,12 @@ Install the required Python packages:
 
 pip install -r requirements.txt
 
-##Usage
-# Data Preparation
+## Usage
+### Data Preparation
 QIIME Output: Ensure you have the QIIME output files (e.g., feature table, taxonomy classification, metadata).
 Configuration: Adjust any paths or parameters directly in the Jupyter notebook or lab_utilis.py if necessary.
 
-#Running the Scripts
+### Running the Scripts
 Run the Jupyter Notebook:
 Open the procesamientometagenomica.ipynb file with Jupyter Notebook.
 Execute the cells in the notebook sequentially. The notebook will:
