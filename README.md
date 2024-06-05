@@ -31,13 +31,11 @@ Before using this repository, ensure you have the following software installed:
 
 Clone the repository to your local machine:
 
-```bash
 git clone https://github.com/yourusername/metagenomic-biodigester-processing.git
 cd metagenomic-biodigester-processing
 
 Install the required Python packages:
 
-```bash
 pip install -r requirements.txt
 
 ##Usage
